@@ -343,4 +343,12 @@ const sparePartsData = [
     "Item Name": "GEAR BOX ASSEMBLY HAIER",
     "Selling Price (Customer)": 1200.0
   }
+{
+    "Item Name": "GEAR BOX ASSEMBLY HAIER",
+    "Selling Price (Customer)": 1200.0
+  }
+{
+    "Item Name": "Tanzeel",
+    "Selling Price (Customer)": 0.0
+  }
 ];
